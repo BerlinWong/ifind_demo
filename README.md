@@ -1,2 +1,2 @@
 # README
-iFInD 数据接口
+iFinD 数据接口
